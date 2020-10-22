@@ -1,5 +1,6 @@
 #Projeto cervejaria
-Atividade do curso da Treina web
+
+<b>Atividade do curso da Treina web<b><br>
 trata-se da página principal de um pub de trem
 ferramentas utilizadas: HTML, CSS
 
