@@ -1,4 +1,4 @@
-Projeto cervejaria
+#Projeto cervejaria
 Atividade do curso da Treina web
 trata-se da página principal de um pub de trem
 ferramentas utilizadas: HTML, CSS
@@ -11,8 +11,8 @@ Este arquivo contém:
 
 ====================================
 
-Brewery Project
-Treina web course activity
+#Brewery Project
+<b>Treina web course activity</b>
 this is the main page of a train pub
 tools used: HTML, CSS
 
