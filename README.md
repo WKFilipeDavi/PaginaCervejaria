@@ -1,24 +1,24 @@
 #Projeto cervejaria
 
 <b>Atividade do curso da Treina web</b><br>
-trata-se da página principal de um pub de trem
-ferramentas utilizadas: HTML, CSS
-
-Este arquivo contém: 
-1 arquivo HTML
-1 arquivo CSS
-1 pasta de vídeos
-1 pasta de imagens 
+trata-se da página principal de um pub de trem<br>
+ferramentas utilizadas: HTML, CSS<br>
+<br>
+Este arquivo contém:<br> 
+1 arquivo HTML<br>
+1 arquivo CSS<br>
+1 pasta de vídeos<br>
+1 pasta de imagens <br>
 
 ====================================
 
-#Brewery Project
-<b>Treina web course activity</b>
-this is the main page of a train pub
-tools used: HTML, CSS
-
-This file contains:
-1 HTML file
-1 CSS file
-1 video folder
-1 image folder
+#Brewery Project<br>
+<b>Treina web course activity</b><br>
+this is the main page of a train pub<br>
+tools used: HTML, CSS<br>
+<br>
+This file contains:<br>
+1 HTML file<br>
+1 CSS file<br>
+1 video folder<br>
+1 image folder<br>
