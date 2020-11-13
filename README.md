@@ -1,3 +1,15 @@
+#como usar:
+
+Baixe os arquivos, abra a página "indexBebida.html" e navegue.
+
+
+#how to use:
+
+Download the files, open the "indexBebida.html" page and browse.
+
+========================================
+
+
 #Projeto cervejaria
 
 <b>Atividade do curso da Treina web</b><br>
